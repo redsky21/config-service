@@ -9,5 +9,6 @@ spring:
       server:
         git:
           uri: https://github.com/redsky21/git-msa-local-repo.git
+          default-label: master
 
 #          uri: file://C:\mywork\msa\git-msa-local-repo
