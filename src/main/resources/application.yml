@@ -8,5 +8,6 @@ spring:
     config:
       server:
         git:
-          uri: file://C:\mystudy\msa\git-local-repo
+          uri: https://github.com/redsky21/git-msa-local-repo.git
 
+#          uri: file://C:\mywork\msa\git-msa-local-repo
