@@ -1,6 +1,7 @@
 encrypt:
   key-store:
-    location: file:///C:\mywork\keysotre\apiEncrytionKey.jks
+#    location: file:///C:\mywork\keysotre\apiEncrytionKey.jks
     password: test123
     alias: apiEncrytionKey
+    location: apiEncrytionKey.jks
 #  key: abcdefghijklmnopqrstuvwxyz4045
